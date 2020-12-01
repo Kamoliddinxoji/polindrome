@@ -5,7 +5,6 @@ import "fmt"
 func main() {
 	var num, qoldiq, temp int
 	var reverse int = 0
-
 	fmt.Print("Enter any positive integer : ")
 	fmt.Scan(&num)
 
